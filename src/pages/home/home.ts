@@ -3,7 +3,6 @@ import { NavController } from 'ionic-angular';
 import { Camera } from '@ionic-native/camera';
 import { NgModule } from '@angular/core';
 
-//kill you
 
 @Component({
   selector: 'page-home',
